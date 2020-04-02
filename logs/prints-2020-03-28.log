@@ -1,0 +1,6 @@
+20:29:33.581 [main] INFO  com.inetbanking.TestCases.TC_LoginDDT_02 - URL is opened
+20:29:34.799 [main] INFO  com.inetbanking.TestCases.TC_LoginDDT_02 - user name provided
+20:29:36.920 [main] INFO  com.inetbanking.TestCases.TC_LoginDDT_02 - password provided
+20:30:14.578 [main] INFO  com.inetbanking.TestCases.TC_LoginDDT_02 - user name provided
+20:30:16.795 [main] INFO  com.inetbanking.TestCases.TC_LoginDDT_02 - password provided
+20:30:49.048 [main] INFO  com.inetbanking.TestCases.TC_LoginDDT_02 - user name provided

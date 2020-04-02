@@ -1,0 +1,6 @@
+17:03:05.587 [main] INFO  com.inetbanking.TestCases.TC_LoginTest_01 - username enterd successfully
+17:03:07.688 [main] INFO  com.inetbanking.TestCases.TC_LoginTest_01 - password entered successfully
+17:03:12.849 [main] INFO  com.inetbanking.TestCases.TC_LoginTest_01 - clicked successfully
+17:03:13.866 [main] INFO  com.inetbanking.TestCases.TC_LoginTest_01 - successfully validated
+18:15:53.919 [main] INFO  com.inetbanking.TestCases.TC_LoginTest_01 - URL is opened
+18:15:56.096 [main] INFO  com.inetbanking.TestCases.TC_LoginTest_01 - username enterd successfully
